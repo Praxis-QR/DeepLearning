@@ -8,7 +8,7 @@ This repository contains Jupyter ( or rather Google Colab) notebooks that contai
 - Chapter 4 : [Medical Diagnostics](https://github.com/Praxis-QR/DeepLearning/blob/main/AI_DL_Chapter_4_Medical_Prediction.ipynb) as an example of a real use of neural network.
 - Chapter 5 : [Convulational Neural Network](https://github.com/Praxis-QR/DeepLearning/blob/main/AI_DL_Chapter_5_CNN_Image_Classification.ipynb) that demonstrates Image Recognition or Classification using the CIFAR dataset
 - Chapter 6 : Recurrent Neural Networks for predictive typing
-  - [Prdiction of next CHARACTER](https://github.com/Praxis-QR/DeepLearning/blob/main/AI_DL_Chapter_6A_RNN_predictive_typing_Characters.ipynb)
+  - [Prediction of next CHARACTER](https://github.com/Praxis-QR/DeepLearning/blob/main/AI_DL_Chapter_6A_RNN_predictive_typing_Characters.ipynb)
   - [Prediction of next WORD](https://github.com/Praxis-QR/DeepLearning/blob/main/AI_DL_Chapter_6B_RNN_predictive_typing_Words.ipynb)
 - Chapter 7 : Reinforcement Learning 
   - [Self Driving Taxi](https://github.com/Praxis-QR/DeepLearning/blob/main/AI_DL_Chapter_7A_Reinforcement_Learning_TaxiV3_v1.ipynb)
